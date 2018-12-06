@@ -3,6 +3,8 @@ Catalog for visualizations for Data Science Projects
 
 - Complex
     - [Response Rate and Distribution](./Complex/response_rate_and_distribution.ipynb)
+- Correlation
+    - [Scatter Plots](./Correlation/scatter.ipynb)
 - Distribution
     - [Violin Plots](./Distribution/violin.ipynb)
     - [Density Plots](./Distribution/density.ipynb)
@@ -11,5 +13,5 @@ Catalog for visualizations for Data Science Projects
 - Maps
     - [Map Plots](./Maps/maps.ipynb)
 - Ranking
-- Scatter
+    - [Bar Plots](./Maps/bar.ipynb)
 

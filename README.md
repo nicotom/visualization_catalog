@@ -41,6 +41,14 @@ It is a research of the current libraries, it shows examples for them and lists 
 </div>
 
 ### Evolution
+<div>
+    <a href="./Evolution/line.ipynb"><img src="images/line.jpg" align="left" height="120" ></a>
+</div>
+<br><br><br><br><br>
+<div>
+    <a href="./Evolution/line.ipynb">Line Plots</a><br>
+</div>
+
 ### Flow
 
 ### Maps

@@ -66,7 +66,7 @@ It is a research of the current libraries, it shows examples for them and lists 
 </div>
 <br><br><br><br><br>
 <div>
-    <a href="./Ranking/bars.ipynb">Bar Plots</a><br>
+    <a href="./Ranking/bar.ipynb">Bar Plots</a><br>
 </div>
 
 # Libraries

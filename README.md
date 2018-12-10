@@ -23,6 +23,22 @@ It is a research of the current libraries, it shows examples for them and lists 
     <a href="./Correlation/scatter.ipynb">Scatter Plots</a><br>
 </div>
 
+<div>
+    <a href="./Correlation/heatmap.ipynb"><img src="images/heatmap.jpg" align="left" height="120" ></a>
+</div>
+<br><br><br><br><br>
+<div>
+    <a href="./Correlation/heatmap.ipynb">Heatmap</a><br>
+</div>
+
+<div>
+    <a href="./Correlation/pointplot.ipynb"><img src="images/pointplot.jpg" align="left" height="120" ></a>
+</div>
+<br><br><br><br><br>
+<div>
+    <a href="./Correlation/pointplot.ipynb">Pointplot</a><br>
+</div>
+
 ### Distribution
 <div>
     <a href="./Distribution/violin.ipynb"><img src="images/violin.jpg" align="left" height="120" ></a>

@@ -93,6 +93,14 @@ It is a research of the current libraries, it shows examples for them and lists 
     <a href="./Ranking/bar.ipynb">Bar Plots</a><br>
 </div>
 
+<div>
+    <a href="./Ranking/countplot.ipynb"><img src="images/countplot.jpg" align="left" height="120" ></a>
+</div>
+<br><br><br><br><br>
+<div>
+    <a href="./Ranking/countplot.ipynb">Count Plots</a><br>
+</div>
+
 # Libraries
 
 # Links

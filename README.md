@@ -1,7 +1,17 @@
-# visualization_catalog
+# Visualization Catalog
 This repository is a catalog for visualizations for Data Science Projects.
 It is a research of the current libraries, it shows examples for them and lists pros and cons of each one.
 
+## Installation and running
+
+```
+git clone git@github.com:nicotom/visualization_catalog.git
+cd visualization_catalog
+./install.sh
+
+conda activate visualization_catalog
+jupyter notebook
+```
 
 ## Type of graphs
 

@@ -1,0 +1,13 @@
+name: visualization_catalog
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - folium=0.8.3=py_0
+  - jupyter=1.0.0=py37_7
+  - matplotlib==3.0.3
+  - pandas=0.24.2
+  - pip
+  - seaborn=0.9.0=py37_0
+  - pip:
+    - jupyterthemes==0.20.0

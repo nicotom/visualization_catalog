@@ -73,8 +73,6 @@ It is a research of the current libraries, it shows examples for them and lists 
     <a href="./Evolution/line.ipynb">Line Plots</a><br>
 </div>
 
-### Flow
-
 ### Maps
 <div>
     <a href="./Maps/maps.ipynb"><img src="images/maps.jpg" align="left" height="120" ></a>

@@ -7,10 +7,9 @@ It is a research of the current libraries, it shows examples for them and lists 
 ```
 git clone git@github.com:nicotom/visualization_catalog.git
 cd visualization_catalog
-./install.sh
+./tools/install.sh
 
-conda activate visualization_catalog
-jupyter notebook
+./tools/start.sh
 ```
 
 ## Type of graphs
@@ -115,5 +114,4 @@ jupyter notebook
  - [Folium](https://github.com/python-visualization/folium)
  - [Bokeh](https://bokeh.pydata.org/en/latest/)
  - [Cartopy](https://scitools.org.uk/cartopy/docs/latest/)
- - [ggplot](http://ggplot.yhathq.com/)
  - [MPLD3](http://mpld3.github.io/)
